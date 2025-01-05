@@ -280,7 +280,7 @@ local secondarybutton2 = secondarySection2:AddButton({
 -- Settings
 local SettingsTab = Window:MakeTab({
     Name = "Settings",
-    Icon = "rbxassetid://4483345998",
+    Icon = "rbxassetid://15292051839",
     PremiumOnly = false
 })
 
